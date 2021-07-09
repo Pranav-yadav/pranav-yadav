@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML, REACT
 - 👯 I’m looking to collaborate on Web Development
 - 💬 Ask me about Physics 🌌
-- 📫 How to reach me: pranavyadav3912@gmail.com
+- 📫 How to reach me: [yadavpranav](https://www.linkedin.com/in/yadavpranav/)
 - 😇 Fun fact: I'm always available @ `127.0.0.1` 😜
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/pranav-yadav) -->
