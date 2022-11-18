@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ML Project
 - 🌱 I’m currently exploring ML, AI & React :heart:
-- 👯 I’m looking to collaborate on Web Development
+- 👯 I’m looking to collaborate on all things Open Source
 - 💬 Ask me about Physics 🌌
 - 📫 How to reach me: Email: [pranavyadav3912[at]gmail[dot]com](mailto:pranavyadav3912@gmail.com) | LinkedIn: [@yadavpranav](https://www.linkedin.com/in/yadavpranav/)
 - 😄 Pronouns: He/Him
@@ -16,10 +16,11 @@
 
 <!-- Profiles -->
 <p align="center">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' />
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin@yadavpranav' height='40' />
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram@yadavpranav_' height='40' />
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter@pranavyadav_' height='40' />
+  <a href="https://github.com/pranav-yadav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg' alt='github' height='40'/></a>
+  <a href="https://www.linkedin.com/in/yadavpranav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg' alt='linkedin@yadavpranav' height='40'/></a>
+  <a href="https://twitter.com/pranavyadav_"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg' alt='twitter@pranavyadav_' height='40'></a>
+  <a href="https://www.instagram.com/yadavpranav_"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg' alt='instagram@yadavpranav_' height='40'/></a>
+  <a href="https://dev.to/pranavyadav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dev-dot-to.svg' alt='dev.to@pranavyadav' height='40'/></a>
 </p>
 
 <!-- Stats -->
