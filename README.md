@@ -7,9 +7,9 @@
 - 🌱 I’m currently exploring ML, AI & React :heart:
 - 👯 I’m looking to collaborate on all things Open Source
 - 💬 Ask me about Physics 🌌
-- 📫 How to reach me: Email: [pranavyadav3912[at]gmail[dot]com](mailto:pranavyadav3912@gmail.com) | LinkedIn: [@yadavpranav](https://www.linkedin.com/in/yadavpranav/)
+- 📧 How to reach me: LinkedIn: [**@yadavpranav**](https://www.linkedin.com/in/yadavpranav/) | Email: [pranavyadav3912[at]gmail[dot]com](mailto:pranavyadav3912@gmail.com)
 - 😄 Pronouns: He/Him
-- 😇 Fun fact: I'm always available @ `127.0.0.1` 😜
+- 😇 Fun fact: I'm always available @`127.0.0.1` 😜
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/pranav-yadav)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to@pranavyadav' height='30'>](https://dev.to/pranavyadav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin@yadavpranav' height='30'>](https://www.linkedin.com/in/yadavpranav/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram@yadavpranav_' height='30'>](https://www.instagram.com/yadavpranav_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter@pranavyadav_' height='30'>](https://twitter.com/pranavyadav_) -->
@@ -23,6 +23,7 @@
   <a href="https://dev.to/pranavyadav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dev-dot-to.svg' alt='dev.to@pranavyadav' height='40'/></a>
 </p>
 
+<div align='center'>
 <!-- Stats -->
 <picture>
 <source 
@@ -33,7 +34,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=pranav-yadav&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=pranav-yadav&show_icons=true" alt="Pranav Yadav's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pranav-yadav&show_icons=true" alt="Pranav Yadav's GitHub Stats" width="49%" />
 </picture>
 
 <!-- Top Langs -->
@@ -48,6 +49,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-yadav&layout=compact&show_icons=true" alt="Pranav Yadav's Top Langs" />
 </picture>
-
-<!-- Holopin Badhe Board -->
-[![@pranavyadav's Holopin board](https://holopin.me/pranavyadav)](https://holopin.io/@pranavyadav)
+</div>
+  
+<!-- Holopin Badges Board -->
+<!-- [![@pranavyadav's Holopin board](https://holopin.me/pranavyadav)](https://holopin.io/@pranavyadav) -->
+<div align="center">
+  <a href='https://holopin.io/@pranavyadav'><img src='https://holopin.me/pranavyadav' alt="@pranavyadav's Holopin board" width='90%'/></a>
+</div>
