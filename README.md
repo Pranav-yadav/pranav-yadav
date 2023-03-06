@@ -16,14 +16,14 @@
 - 😇 Fun fact: I'm always available @`127.0.0.1` 😜 i.e. at my local address!
 - 👨‍💻 Technologies:
     ```shell
-    Pranav-yadav@github:~$ echo ./technologies.txt
+    Pranav-yadav@github:~$ cat ./technologies.txt
     - MongoDB, React, ExpressJs, NodeJs (MERN) Stack
     - JavaScript, TypeScript
     - Python, Java && C++
     ```
 - 🎓 Courses:
     ```shell
-    Pranav-yadav@github:~$ echo ./courses.txt
+    Pranav-yadav@github:~$ cat ./courses.txt
     - DSA, Computer Networks, DBMS, OOP
     - OS, Distributed Systems, Blockchain 
     - Machine Learning && Deep Learning
