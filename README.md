@@ -1,19 +1,21 @@
-## Hi There 👋, I'm [Pranav](https://github.com/pranav-yadav)
-### I'm a final year Computer Engineering Student from 🇮🇳
+## Hi There 👋, I'm [Pranav](https://www.linkedin.com/in/yadavpranav)
+
+### I'm a Computer Engineer from 🇮🇳
 <!-- ![Conways Game of Life](https://upload.wikimedia.org/wikipedia/commons/e/e6/Conways_game_of_life_breeder_animation.gif) -->
-**⚡ Full Stack Developer ⚡ Aspiring SWE ⚡ DL Enthusiast**
 
-**⚛️ Reactjs Magician 🛡️ TypeScript Wizard 😎 React Native**
+**⚡ Full Stack Developer ⚡ Aspiring SWE ⚡ AI/DL Enthusiast**
 
-- 🔭 I’m currently working on Web3 (**Blockchain**) Project
+**⚛️ React.js Magician 🛡️ TypeScript Wizard 😎 React Native**
+
+- 🔭 I’m currently working on **React Native** Project
 - 🌱 I’m currently exploring **DL** & **AI**
 - 👯 I’m looking to collaborate on all things Open Source :heart:
 - 💬 Ask me about Physics 🌌
 - 📧 How to reach me? 🤔
-  - **LinkedIn**: [**@yadavpranav**](https://www.linkedin.com/in/yadavpranav/)
+  - **LinkedIn**: [**@yadavpranav**](https://www.linkedin.com/in/yadavpranav)
   - **Email**: [pranavyadav3912[at]gmail[dot]com](mailto:pranavyadav3912@gmail.com)
 - 😄 Pronouns: He/Him
-- 😇 Fun fact: I'm always available @`127.0.0.1` 😜 i.e. at my local address!
+- 😇 Fun fact: I'm always available `@127.0.0.1` 😜 i.e. at my local address!
 - 👨‍💻 Technologies:
     ```shell
     Pranav-yadav@github:~$ cat ./technologies.txt
@@ -35,8 +37,8 @@
 <!-- Profiles -->
 <div align="center">
   <p>Connect with me 👇</p>
-  <a href="https://github.com/pranav-yadav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg' alt='github' height='40'/></a>
   <a href="https://www.linkedin.com/in/yadavpranav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg' alt='linkedin@yadavpranav' height='40'/></a>
+  <a href="https://github.com/pranav-yadav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg' alt='github' height='40'/></a>
   <a href="https://twitter.com/pranavyadav_"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg' alt='twitter@pranavyadav_' height='40'></a>
   <a href="https://www.instagram.com/yadavpranav_"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg' alt='instagram@yadavpranav_' height='40'/></a>
   <a href="https://dev.to/pranavyadav"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dev-dot-to.svg' alt='dev.to@pranavyadav' height='40'/></a>
